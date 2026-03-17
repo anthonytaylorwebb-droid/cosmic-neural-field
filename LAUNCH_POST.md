@@ -26,7 +26,7 @@ Runs fully local on macOS. No account required.
 
 Repo:
 
-- https://github.com/REDACTED-ACCOUNT/signal-field
+- https://github.com/Marbleslabb/signal-field
 
 Still improving:
 
