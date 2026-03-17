@@ -1,0 +1,7 @@
+node_modules
+dist
+.DS_Store
+release
+*.tsbuildinfo
+electron-builder.env
+media/full-desktop.png
